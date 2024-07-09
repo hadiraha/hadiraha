@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
+
+-->
 - 🔭 I’m currently working on Data Engineering 
 - 🌱 I’m currently learning French and Chinese 
 - 👯 I’m looking to collaborate on data related projects
 - 🤔 I’m looking for help to enhance my codes structure and readability
 - 💬 Ask me about Everything literally everything there is no shame in asking as well in responding I don't know 😄
 - 📫 How to reach me: Email me "Hadinematpour1@gmail.com"
-
--->
 
 I was working in Electronics industry untill mandatory military service happened to me... 
 I lost my connections and it propelled me in the other direction.
